@@ -51,15 +51,6 @@ wifi-password-viewer-cli/
 
 ---
 
-## 📌 Requirements
-
-```bash
-Python 3.7+
-Windows OS (uses netsh command)
-```
-
----
-
 ## ▶️ How to Run
 
 ### 1️⃣ Clone the repository
